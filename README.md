@@ -1,5 +1,5 @@
 ## Descripción
-Código de ejemplo para el vídeo en Youtube sobre un Lightbox Responsive con HTML, CSS y Javascript: [URL](URL).
+Código de ejemplo para el vídeo en Youtube sobre un Lightbox Responsive con HTML, CSS y Javascript: [https://youtu.be/57NEnHYsoDQ](https://youtu.be/57NEnHYsoDQ).
 
 No ha sido probado para tener soporte crossbrowsing.
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
@@ -8,14 +8,14 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 Para ver proyecto en directo puedes verlo aquí [GITHUBPAGES](GITHUBPAGES)
 
 ## Tiempo de programación ⏰
-Este ejemplo ha sido programado en aproximadamente 15 minutos al grabar el vídeo de Youtube: [URL](URL)
+Este ejemplo ha sido programado en aproximadamente 20 minutos al grabar el vídeo de Youtube: [https://youtu.be/57NEnHYsoDQ](https://youtu.be/57NEnHYsoDQ)
 
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 Es un código programado en directo para entretenimiento.
 
 ## Vídeos relacionados en Youtube 🛠️
-* [URL](URL)
+* [https://youtu.be/57NEnHYsoDQ](https://youtu.be/57NEnHYsoDQ)
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
