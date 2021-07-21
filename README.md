@@ -10,6 +10,9 @@ Para ver proyecto en directo puedes verlo aquí [GITHUBPAGES](GITHUBPAGES)
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en aproximadamente 20 minutos al grabar el vídeo de Youtube: [https://youtu.be/57NEnHYsoDQ](https://youtu.be/57NEnHYsoDQ)
 
+## PDF con toda la info
+Aquí te dejo [un enlace de descarga hacia un PDF](https://eduardofierro.pro/descargas/modulos-de-una-web.pdf) con el resto de módulos, resumen y teoría.
+
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 Es un código programado en directo para entretenimiento.
