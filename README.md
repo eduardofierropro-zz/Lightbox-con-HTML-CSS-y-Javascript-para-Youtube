@@ -11,9 +11,7 @@ Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github
 Este ejemplo ha sido programado en aproximadamente 20 minutos al grabar el vídeo de Youtube: [https://youtu.be/57NEnHYsoDQ](https://youtu.be/57NEnHYsoDQ)
 
 ## PDF con toda la info
-Aquí te dejo [un enlace de descarga hacia un PDF](https://eduardofierro.pro/descargas/modulos-de-una-web.pdf?utm_source=modulos-web&utm_medium=github&utm_campaign=descarga) con el resto de módulos, resumen y teoría.
-
-
+Aquí te dejo [un enlace de descarga hacia un PDF](https://eduardofierro.pro/descargas/modulos-de-una-web.pdf?utm_source=modulos-web&utm_medium=github&utm_campaign=descarga-pdf) con el resto de módulos, resumen y teoría.
 
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
